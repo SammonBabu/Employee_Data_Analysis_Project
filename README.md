@@ -7,7 +7,7 @@ This project involves analyzing a dataset from ABC Company to gain insights into
 ### Project Structure
 
 - **data/**: Contains the dataset file (`employee_data.csv`).
-- **notebooks/**: Contains the Jupyter Notebook file (`employee_data_analysis.ipynb`).
+- **employee_data_analysis.ipynb**: Contains the Jupyter Notebook file.
 - **README.md**: Comprehensive overview of the project.
 
 ### Preprocessing
